@@ -30,15 +30,15 @@
 ![{7184AE20-5E91-43DE-9C5C-F797A85E1531}](https://i.postimg.cc/hDJSzth4/1.jpg)
 
 - **В Chrome (chrome)
-![{F12F072A-53E9-4C47-9B34-8CC4F5F30CCA}](https://github.com/user-attachments/assets/da5b341f-8ed1-4e5c-844c-236afa22722e)
+![{F12F072A-53E9-4C47-9B34-8CC4F5F30CCA}](https://i.postimg.cc/L5R7NDSp/2.jpg)
 
 - **В Edge (edge)
-![{A30C8173-D3E4-4979-8EDE-C31BE258836F}](https://github.com/user-attachments/assets/ab446a95-fd25-4bfd-b95c-4bbe69a2eb2f)
+![{A30C8173-D3E4-4979-8EDE-C31BE258836F}](https://i.postimg.cc/2jFg3sd8/3.jpg)
 
 - ** В эмуляторе. Сделала через Genymothion, нормально установила Hyper-V и наладила ситуацию с adb.
-  ![{D961964D-7679-4624-A907-C29F1D644550}](https://github.com/user-attachments/assets/95af3475-babf-4173-949d-b88dc3b2db18)
+  ![{D961964D-7679-4624-A907-C29F1D644550}](https://i.postimg.cc/GhLVDXzP/4.jpg)
 - ** На телефоне.
-  ![{6A8B9E59-CB1D-48CD-89AF-43DF7F4AD912}](https://github.com/user-attachments/assets/97ca9545-632c-4caf-873b-d2c2027fe827)
+  ![{6A8B9E59-CB1D-48CD-89AF-43DF7F4AD912}](https://i.postimg.cc/Ls1bSw-6S/5.jpg)
 
 # Дополнительное задание с лекции
 
