@@ -27,7 +27,7 @@
 Проект Android Studio для практического по курсу "Программирование корпоративных систем". Было произведено тестирование приложения на различных устройствах, для будущее коректной работны на различных устройствах.
 
 - **В Windows 
-![{7184AE20-5E91-43DE-9C5C-F797A85E1531}](https://github.com/user-attachments/assets/913053d8-dc52-45f8-adb3-d16a7bdc3780)
+![{7184AE20-5E91-43DE-9C5C-F797A85E1531}](https://i.postimg.cc/hDJSzth4/1.jpg)
 
 - **В Chrome (chrome)
 ![{F12F072A-53E9-4C47-9B34-8CC4F5F30CCA}](https://github.com/user-attachments/assets/da5b341f-8ed1-4e5c-844c-236afa22722e)
